@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">bojinLi — Build tools. Connect workflows.</title>
+  <desc id="desc">Developer profile banner for Python, MCP and practical automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1222"/><stop offset="1" stop-color="#192947"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6ee7d8"/><stop offset="1" stop-color="#8da9ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7291c5" stroke-opacity="0.08"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="58" y="57" width="46" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="58" y="126" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#f0f6ff">bojinLi<tspan fill="#6ee7d8">.</tspan></text>
+  <text x="60" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="500" fill="#d4dff1">Build tools. Connect workflows.</text>
+  <text x="60" y="225" font-family="Consolas,monospace" font-size="15" letter-spacing="1.4" fill="#8fa7cb">PYTHON / MCP / PRACTICAL AUTOMATION</text>
+  <rect x="765" y="58" width="374" height="184" rx="12" fill="#0b1425" stroke="#344869"/>
+  <path d="M765 96H1139" stroke="#344869"/>
+  <circle cx="786" cy="77" r="4" fill="#6483b0"/><circle cx="802" cy="77" r="4" fill="#6483b0"/><circle cx="818" cy="77" r="4" fill="#6483b0"/>
+  <text x="790" y="131" font-family="Consolas,monospace" font-size="17" fill="#6ee7d8">&gt; observe()</text>
+  <text x="790" y="165" font-family="Consolas,monospace" font-size="17" fill="#a9beff">&gt; automate()</text>
+  <text x="790" y="199" font-family="Consolas,monospace" font-size="17" fill="#d4dff1">&gt; verify()</text>
+  <rect x="919" y="185" width="9" height="17" fill="#6ee7d8"/>
+  <path d="M58 265H1139" stroke="#344869" stroke-opacity="0.7"/>
+</svg>
